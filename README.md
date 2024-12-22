@@ -1,4 +1,4 @@
-👋 Hi, I’m Fernando Hidalgo Pineda (@fermentando).
+## 👋 Hi, I’m Fernando Hidalgo Pineda (@fermentando).
 🌱 I’m a PhD student in **Computational Astrophysics** at the **Max Planck Institute for Astrophysics**. My research focuses on understanding the universe combining theoretical and observational astronomy.
 
 ### 🧠 Research Interests
