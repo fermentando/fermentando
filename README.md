@@ -7,12 +7,8 @@
 - **High-Performance Computing**: Developing astrophysical codes.
 
 ### 📄 Publications
-You can check my previous publications [here on NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22fernando%20hidalgo-pineda%22&sort=date%20desc%2C%20bibcode%20desc).
+You can check my previous publications [here on NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22fernando%20hidalgo-pineda%22&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=pgbziCYAAAAJ). If you want to know more, take a look at my [personal website](https://fermentando.github.io/).
 
-### 🌌 Accessibility
-- [Website](https://fermentando.github.io/)
-- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=pgbziCYAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/fernando-hidalgo-pineda-8a6127205)
 
 
 <!--
