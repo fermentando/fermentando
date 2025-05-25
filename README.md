@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Fernando Hidalgo Pineda (@fermentando).
-I’m a PhD student in **Computational Astrophysics** at the **Max Planck Institute for Astrophysics**. My research focuses on understanding the universe combining theoretical and observational astronomy.
+I’m a PhD student in **Computational Astrophysics** at the **Max Planck Institute for Astrophysics**. My research focuses on understanding galactic flows from a theoretical standpoint.
 
 ### 🧠 Research Interests
 - **Galaxy Formation**: Modelling the processes driving the formation and evolution of galaxies.
