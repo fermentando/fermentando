@@ -2,7 +2,7 @@
 I’m a PhD student in **Computational Astrophysics** at the **Max Planck Institute for Astrophysics**. My research focuses on understanding galactic flows from a theoretical standpoint.
 
 ### 🧠 Research Interests
-- **Galaxy Formation**: Modelling the processes driving the formation and evolution of galaxies at low scales.
+- **Galaxy Formation**: Modelling the processes driving the formation and evolution of galaxies.
 - **Multiphase gas dynamics**: Investigating the ubiquitousness and interactions of multiphase systems, such as in galaxy clusters, circumgalactic medium or star-forming regions.
 - **High-Performance Computing**: Working with astrophysical codes.
 
